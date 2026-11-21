@@ -1,29 +1,30 @@
 [
   {
     "id": 1,
-    "name": "Spriglet",
+    "name": "Eiknor",
     "types": [
       "Grass"
     ],
-    "generation": 1,
-    "species": "Sprout Pokémon",
-    "height": 0.3,
-    "weight": 2.4,
+    "generation": 10,
+    "species": "Acorn Boar Pokemon",
+    "height": 0.5,
+    "weight": 12.4,
     "abilities": [
       "Overgrow"
     ],
-    "hiddenAbility": "Leaf Guard",
-    "stats": {
-      "hp": 45,
-      "attack": 49,
-      "defense": 49,
-      "spAttack": 65,
-      "spDefense": 65,
-      "speed": 45
+    "hiddenAbility": "Tick Fat",
+    "base stats": {
+      "hp": 54,
+      "attack": 65,
+      "defense": 58,
+      "spAttack": 42,
+      "spDefense": 48,
+      "speed": 48
+      "total": 315
     },
-    "description": "Een klein plantwezen uit jouw eigen regio.",
-    "image": "",
-    "shinyImage": "",
+    "description": "Eiknor collects acorns and buries them wherever it goes. It often forgets where it hid them, causing tiny trees to sprout in unexpected places.",
+    "image": "blob:https://chatgpt.com/3a109bef-6992-4a9c-b0a4-f87a3d8e0675",
+    "shinyImage": "blob:https://chatgpt.com/1156999c-9069-4ecc-922a-d7c86b917384",
     "evolution": {
       "previous": [],
       "next": [
