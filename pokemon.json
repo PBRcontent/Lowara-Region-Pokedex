@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "name": "Spriglet",
+    "types": [
+      "Grass"
+    ],
+    "generation": 1,
+    "species": "Sprout Pokémon",
+    "height": 0.3,
+    "weight": 2.4,
+    "abilities": [
+      "Overgrow"
+    ],
+    "hiddenAbility": "Leaf Guard",
+    "stats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "spAttack": 65,
+      "spDefense": 65,
+      "speed": 45
+    },
+    "description": "Een klein plantwezen uit jouw eigen regio.",
+    "image": "",
+    "shinyImage": "",
+    "evolution": {
+      "previous": [],
+      "next": [
+        2
+      ],
+      "method": "Evolueert op level 16"
+    },
+    "moves": [
+      {
+        "level": 1,
+        "name": "Tackle",
+        "type": "Normal",
+        "category": "Physical",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 35
+      },
+      {
+        "level": 7,
+        "name": "Vine Whip",
+        "type": "Grass",
+        "category": "Physical",
+        "power": 45,
+        "accuracy": 100,
+        "pp": 25
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Brambleaf",
+    "types": [
+      "Grass"
+    ],
+    "generation": 1,
+    "species": "Thicket Pokémon",
+    "height": 0.8,
+    "weight": 12,
+    "abilities": [
+      "Overgrow"
+    ],
+    "hiddenAbility": "Leaf Guard",
+    "stats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 63,
+      "spAttack": 80,
+      "spDefense": 80,
+      "speed": 60
+    },
+    "description": "De geëvolueerde vorm van Spriglet.",
+    "image": "",
+    "shinyImage": "",
+    "evolution": {
+      "previous": [
+        1
+      ],
+      "next": [
+        3
+      ],
+      "method": "Evolueert op level 36"
+    },
+    "moves": [
+      {
+        "level": 16,
+        "name": "Seed Bomb",
+        "type": "Grass",
+        "category": "Physical",
+        "power": 80,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Thornox",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "generation": 1,
+    "species": "Briar Pokémon",
+    "height": 1.7,
+    "weight": 82,
+    "abilities": [
+      "Overgrow"
+    ],
+    "hiddenAbility": "Sharpness",
+    "stats": {
+      "hp": 80,
+      "attack": 110,
+      "defense": 90,
+      "spAttack": 75,
+      "spDefense": 80,
+      "speed": 85
+    },
+    "description": "De laatste evolutie van Spriglet.",
+    "image": "",
+    "shinyImage": "",
+    "evolution": {
+      "previous": [
+        2
+      ],
+      "next": [],
+      "method": "Laatste evolutie"
+    },
+    "moves": [
+      {
+        "level": 36,
+        "name": "Leaf Blade",
+        "type": "Grass",
+        "category": "Physical",
+        "power": 90,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Cindercub",
+    "types": [
+      "Fire"
+    ],
+    "generation": 1,
+    "species": "Ember Cub Pokémon",
+    "height": 0.4,
+    "weight": 6.1,
+    "abilities": [
+      "Blaze"
+    ],
+    "hiddenAbility": "Flash Fire",
+    "stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "spAttack": 60,
+      "spDefense": 50,
+      "speed": 65
+    },
+    "description": "Een vurige Pokémon uit jouw regio.",
+    "image": "",
+    "shinyImage": "",
+    "evolution": {
+      "previous": [],
+      "next": [
+        5
+      ],
+      "method": "Evolueert op level 16"
+    },
+    "moves": [
+      {
+        "level": 7,
+        "name": "Ember",
+        "type": "Fire",
+        "category": "Special",
+        "power": 40,
+        "accuracy": 100,
+        "pp": 25
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pyrolynx",
+    "types": [
+      "Fire"
+    ],
+    "generation": 1,
+    "species": "Blaze Lynx Pokémon",
+    "height": 1.4,
+    "weight": 38.5,
+    "abilities": [
+      "Blaze"
+    ],
+    "hiddenAbility": "Flash Fire",
+    "stats": {
+      "hp": 76,
+      "attack": 104,
+      "defense": 71,
+      "spAttack": 92,
+      "spDefense": 78,
+      "speed": 109
+    },
+    "description": "De snelle eind-evolutie van Cindercub.",
+    "image": "",
+    "shinyImage": "",
+    "evolution": {
+      "previous": [
+        4
+      ],
+      "next": [],
+      "method": "Laatste evolutie"
+    },
+    "moves": [
+      {
+        "level": 42,
+        "name": "Flare Blitz",
+        "type": "Fire",
+        "category": "Physical",
+        "power": 120,
+        "accuracy": 100,
+        "pp": 15
+      }
+    ]
+  }
+]
